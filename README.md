@@ -13,21 +13,17 @@
     <a href="https://github.com/sahiee-dev/VoxVision/issues">Request Feature</a>
   </p>
 </p>
-
-![Contributors](https://img.shields.io/github/contributors/sahiee-dev/VoxVision?color=dark-green) ![Forks](https://img.shields.io/github/forks/sahiee-dev/VoxVision?style=social) ![Stargazers](https://img.shields.io/github/stars/sahiee-dev/VoxVision?style=social) ![Issues](https://img.shields.io/github/issues/sahiee-dev/VoxVision) ![License](https://img.shields.io/github/license/sahiee-dev/VoxVision) 
+ 
 
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
-* [License](#license)
-* [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
+
 
 ## About The Project
 
@@ -47,23 +43,13 @@ VoxVision is an innovative web application designed to streamline video communic
 
 * []()
 
-## Getting Started
-
-1. Access the application via the following link:
-[www.voxvision.netlify.app](https://www.voxvision.netlify.app)
-2. Enter a custom room code or generate a code for a new room.
-3. Share the room code with another user.
-4. Once another user joins the room using the same code, a video call will be initiated automatically.
-5. Enjoy seamless video communication with other users!
-
-
 ### Prerequisites
 
 Clone the Repository
 
 Clone the VoxVision repository to your local machine using Git:
 
-```git clone https://github.com/sahiee-dev/voxvision.git```
+```git clone https://github.com/LokeshYadav24/VixVision
 
 ## Usage
 
@@ -105,11 +91,5 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/sahiee-dev/VoxVision/blob/main/LICENSE.md) for more information.
-
-## Authors
-
-* **Sahir** - *Comp Sci Student* - [Sahir](https://github.com/sahiee-dev/) - *Built VoxVision*
 
